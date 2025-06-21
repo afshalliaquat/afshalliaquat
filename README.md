@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Afshal Liaquat</h1>
 <h3 align="center">a Software Engineering student at FAST NUCES with a passion for coding and solving problems through technology</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=afshalliaquat&label=Profile%20views&color=0e75b6&style=flat" alt="afshalliaquat" /> </p>
-
 - 🌱 I’m currently learning **DSA, Machine Learning**
 
 - 📫 How to reach me **afshalliaquat021@gmail.com**
