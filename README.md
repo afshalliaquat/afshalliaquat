@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Afshal Liaquat</h1>
 <h3 align="center">a Software Engineering student at FAST NUCES with a passion for coding and solving problems through technology</h3>
 
-- 🌱 I’m currently learning **DSA, Machine Learning**
+- 🌱 I’m currently learning **DSA**
 
 - 📫 How to reach me **afshalliaquat021@gmail.com**
 
