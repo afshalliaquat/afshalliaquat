@@ -1,16 +1,93 @@
-<h1 align="center">Hi 👋, I'm Afshal Liaquat</h1>
-<h3 align="center">a Software Engineering student at FAST NUCES with a passion for coding and solving problems through technology</h3>
+# Hi there 👋, I'm Afshal Liaquat
 
-- 🌱 I’m currently learning more about ML
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Passionate+Problem+Solver;Tech+Enthusiast;ML+Learner" alt="Typing animation" />
+</div>div>
 
-- 📫 How to reach me **afshalliaquat021@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/afshal-liaquat-972196205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="afshal-liaquat-972196205" height="30" width="40" /></a>
-</p>
+## 🚀 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+I'm a **Software Engineering student at FAST NUCES** with an unwavering passion for coding and solving complex problems through innovative technology solutions. I love building applications that make an impact and constantly exploring new technologies.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=afshalliaquat&show_icons=true&locale=en&layout=compact" alt="afshalliaquat" /></p>
+- 🎓 Currently studying at **FAST NUCES**
+- - 🧠 **Actively learning**: Machine Learning & AI
+  - - 💡 **Interests**: Full-stack development, Data structures, Software design patterns
+    - - 🌍 **Location**: Pakistan
+      - - 📫 **Email**: [afshalliaquat021@gmail.com](mailto:afshalliaquat021@gmail.com)
+       
+        - ---
+
+        ## 🛠️ Tech Stack
+
+        ### Languages
+        ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+        ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+        ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+        ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+        ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+        ### Tools & Technologies
+        ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+        ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+        ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+        ### Design Tools
+        ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+        ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+
+        ---
+
+        ## 📌 Highlighted Projects
+
+        ### 🏥 **Heart-Stroke-Risk-Predictor**
+        A healthcare machine learning classification project that predicts the risk of heart stroke using real-world medical data. Leverages multiple supervised ML algorithms evaluated and compared for optimal performance.
+        - **Tech**: Python, Machine Learning, Data Analysis
+        - - **Status**: Public
+         
+          - ### ☕ **FAST_NUCES_Timetable_Application**
+          - A Java Swing-based timetable management system designed specifically for FAST NUCES students. Features role-based access control, conflict-free scheduling, and persistent file storage with an admin dashboard.
+          - - **Tech**: Java, Swing GUI, Data Structures
+            - - **Status**: Public
+             
+              - ### 📦 **Inventory-Management-System**
+              - A comprehensive Windows-based inventory management system built in C with a sophisticated color-coded console interface. Enables users to add, update, and track products efficiently.
+              - - **Tech**: C, Data Structures
+                - - **Status**: Public
+                 
+                  - ### 💬 **NLP-Sentiment-Analyzer**
+                  - A classical NLP-based sentiment analysis model that analyzes emotion from textual data. Implements fundamental machine learning techniques for text classification and emotion detection.
+                  - - **Tech**: Python, NLP, Machine Learning
+                    - - **Status**: Public
+                     
+                      - ---
+
+                      ## 📊 GitHub Statistics
+
+                      <div align="center">
+                        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=afshalliaquat&show_icons=true&locale=en&layout=compact&theme=dark" alt="Most Used Languages" />
+                      </div>div>
+
+                      ---
+
+                      ## 🤝 Connect With Me
+
+                      <div align="center">
+                        <a href="https://linkedin.com/in/afshal-liaquat-972196205" target="blank">
+                            <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+                        </a>a>
+                          <a href="mailto:afshalliaquat021@gmail.com">
+                              <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+                          </a>a>
+                            <a href="https://github.com/afshalliaquat" target="blank">
+                                <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+                            </a>a>
+                      </div>div>
+
+                      ---
+
+                      <div align="center">
+                        <i>⭐ Feel free to explore my repositories and connect with me! Let's build something amazing together.</i>i>
+                        <br><br>
+                        <img src="https://komarev.com/ghpvc/?username=afshalliaquat&style=flat-square&color=blue" alt="Profile Views" />
+                      </div>div></i>
