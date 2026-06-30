@@ -52,11 +52,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-omega-six.vercel.app/api?username=afshalliaquat&show_icons=true&theme=default&count_private=true" alt="afshalliaquat's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats-omega-six.vercel.app/api/top-langs/?username=afshalliaquat&layout=compact&theme=default" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=afshalliaquat&theme=default" alt="GitHub Streak"/>
 </p>
 
