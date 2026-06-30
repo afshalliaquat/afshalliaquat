@@ -1,93 +1,77 @@
-# Hi there 👋, I'm Afshal Liaquat
+<h1 align="center">Hi 👋, I'm Afshal Liaquat</h1>
+<h3 align="center">Software Engineering Student @ FAST-NUCES Karachi | Aspiring AI/ML Engineer</h3>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Passionate+Problem+Solver;Tech+Enthusiast;ML+Learner" alt="Typing animation" />
-</div>div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=afshalliaquat&label=Profile%20views&color=0e75b6&style=flat" alt="afshalliaquat" />
+</p>
+
+<p align="center">
+  🎓 3rd Year Software Engineering Student &nbsp;|&nbsp;
+  🌱 Learning Machine Learning & AI &nbsp;|&nbsp;
+  💡 Building practical, real-world projects
+</p>
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
-I'm a **Software Engineering student at FAST NUCES** with an unwavering passion for coding and solving complex problems through innovative technology solutions. I love building applications that make an impact and constantly exploring new technologies.
+- 🎓 Software Engineering student at **FAST National University of Computer and Emerging Sciences (FAST-NUCES), Karachi**
+- 🌱 Currently deepening my knowledge of **Machine Learning, NLP, and AI systems**
+- 🛠️ Comfortable across the stack: from low-level systems programming in **C/Java** to data-driven projects in **Python**
+- 💼 Open to **AI/ML and Software Engineering internships**
+- 📫 Reach me at **afshalliaquat021@gmail.com**
+- 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/afshal-liaquat-972196205)
 
-- 🎓 Currently studying at **FAST NUCES**
-- - 🧠 **Actively learning**: Machine Learning & AI
-  - - 💡 **Interests**: Full-stack development, Data structures, Software design patterns
-    - - 🌍 **Location**: Pakistan
-      - - 📫 **Email**: [afshalliaquat021@gmail.com](mailto:afshalliaquat021@gmail.com)
-       
-        - ---
+---
 
-        ## 🛠️ Tech Stack
+### 📌 Featured Projects
 
-        ### Languages
-        ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-        ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-        ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-        ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-        ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+| Project | Description | Tech |
+|---|---|---|
+| [**FAST NUCES Timetable Application**](https://github.com/afshalliaquat/FAST_NUCES_Timetable_Application) | A Java Swing-based Timetable Management System for FAST-NUCES with role-based access, conflict-free scheduling, and persistent file storage. | Java |
+| [**Heart Stroke Risk Predictor**](https://github.com/afshalliaquat/Heart-Stroke-Risk-Predictor) | A healthcare ML classification project predicting stroke risk using real-world data, comparing multiple supervised learning algorithms. | Python |
+| [**Inventory Management System**](https://github.com/afshalliaquat/Inventory-Management-System) | A Windows-based inventory system with a color-coded console UI for adding, updating, searching, and tracking product sales. | C |
+| [**NLP Sentiment Analyzer**](https://github.com/afshalliaquat/NLP-Sentiment-Analyzer) | A sentiment analysis model built with classical machine learning techniques applied to textual data. | Jupyter Notebook |
 
-        ### Tools & Technologies
-        ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-        ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-        ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+---
 
-        ### Design Tools
-        ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-        ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+### 🛠️ Languages & Tools
 
-        ---
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+</p>
 
-        ## 📌 Highlighted Projects
+---
 
-        ### 🏥 **Heart-Stroke-Risk-Predictor**
-        A healthcare machine learning classification project that predicts the risk of heart stroke using real-world medical data. Leverages multiple supervised ML algorithms evaluated and compared for optimal performance.
-        - **Tech**: Python, Machine Learning, Data Analysis
-        - - **Status**: Public
-         
-          - ### ☕ **FAST_NUCES_Timetable_Application**
-          - A Java Swing-based timetable management system designed specifically for FAST NUCES students. Features role-based access control, conflict-free scheduling, and persistent file storage with an admin dashboard.
-          - - **Tech**: Java, Swing GUI, Data Structures
-            - - **Status**: Public
-             
-              - ### 📦 **Inventory-Management-System**
-              - A comprehensive Windows-based inventory management system built in C with a sophisticated color-coded console interface. Enables users to add, update, and track products efficiently.
-              - - **Tech**: C, Data Structures
-                - - **Status**: Public
-                 
-                  - ### 💬 **NLP-Sentiment-Analyzer**
-                  - A classical NLP-based sentiment analysis model that analyzes emotion from textual data. Implements fundamental machine learning techniques for text classification and emotion detection.
-                  - - **Tech**: Python, NLP, Machine Learning
-                    - - **Status**: Public
-                     
-                      - ---
+### 📊 GitHub Stats
 
-                      ## 📊 GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=afshalliaquat&show_icons=true&theme=default&count_private=true" alt="afshalliaquat's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afshalliaquat&layout=compact&theme=default" alt="Top Languages" height="165"/>
+</p>
 
-                      <div align="center">
-                        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=afshalliaquat&show_icons=true&locale=en&layout=compact&theme=dark" alt="Most Used Languages" />
-                      </div>div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afshalliaquat&theme=default" alt="GitHub Streak"/>
+</p>
 
-                      ---
+---
 
-                      ## 🤝 Connect With Me
+### 🤝 Let's Connect
 
-                      <div align="center">
-                        <a href="https://linkedin.com/in/afshal-liaquat-972196205" target="blank">
-                            <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-                        </a>a>
-                          <a href="mailto:afshalliaquat021@gmail.com">
-                              <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-                          </a>a>
-                            <a href="https://github.com/afshalliaquat" target="blank">
-                                <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-                            </a>a>
-                      </div>div>
+<p align="left">
+  <a href="https://www.linkedin.com/in/afshal-liaquat-972196205" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="32" height="32"/>
+  </a>
+  &nbsp;
+  <a href="mailto:afshalliaquat021@gmail.com">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gmail/gmail-original.svg" alt="Email" width="32" height="32"/>
+  </a>
+</p>
 
-                      ---
-
-                      <div align="center">
-                        <i>⭐ Feel free to explore my repositories and connect with me! Let's build something amazing together.</i>i>
-                        <br><br>
-                        <img src="https://komarev.com/ghpvc/?username=afshalliaquat&style=flat-square&color=blue" alt="Profile Views" />
-                      </div>div></i>
+<p align="center"><i>⭐️ From <a href="https://github.com/afshalliaquat">afshalliaquat</a></i></p>
